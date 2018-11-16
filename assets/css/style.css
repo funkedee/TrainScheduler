@@ -1,0 +1,16 @@
+
+img {
+    height: 60%;
+}
+
+.left_train {
+    position: absolute;
+    top: 20%;
+    left: -100px;
+}
+
+.right_train {
+    position: absolute;
+    top: 20%;
+    right: 0px;
+}

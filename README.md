@@ -15,4 +15,4 @@ Any questions about the project can be emailed to daniellois92@gmail.com
 
 ## Acknowledgements
 
-* A css framwork from Bootstrap was used.
+* A css framework from Bootstrap was used.
